@@ -7,3 +7,4 @@
     BODY
     </body>
 </html>
+<?php echo "Hola"; ?>
